@@ -18,24 +18,6 @@ I approach every line of code with the conviction that every error is an opportu
 
 ## Featured Projects
 
-### Hi there 👋
-
-# Hello everyone! 👋
-
-I'm Marcos Alvarez, a passionate web developer in constant evolution. My journey in the world of development is fueled by my tireless perseverance and a steadfast commitment to taking each project to its full potential.
-
-## About Me
-
-💻 Currently, I am immersed in the exciting web development bootcamp at IronHack. Every line of code I write is an expression of my dedication to technical mastery and the creation of impactful solutions.
-
-🚀 My philosophy is simple: there's no challenge too big, and no project too ambitious. My persistence in problem-solving and my love for continuous learning form the foundation of my career.
-
-## Development Philosophy
-
-I approach every line of code with the conviction that every error is an opportunity for learning, and every success is a step towards excellence. I don't settle for the ordinary; I always seek ways to improve and surpass my own limits.
-
-## Featured Projects
-
 Here's a quick look at some of my recent projects:
 
 - **[Project 1](https://neon-haupia-897d05.netlify.app):** [HTML--CSS--JS]
