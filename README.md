@@ -22,9 +22,9 @@ Here's a quick look at some of my recent projects:
 
 - **[Project 1](https://neon-haupia-897d05.netlify.app):** [HTML--CSS--JS]
 - **[Project 2](https://fancy-chimera-3fca55.netlify.app):** [HTML--CSS--JS]
-- **[Project 3](https://soft-brioche-dd0475.netlify.app):** [Descripción y tecnologías utilizadas]
-- **[Project 4](https://papaya-sable-19da66.netlify.app):** [Descripción y tecnologías utilizadas]
-- **[Project 5](https://nimble-swan-4914b5.netlify.app):** [Descripción y tecnologías utilizadas]
+- **[Project 3](https://soft-brioche-dd0475.netlify.app):** [HTML--CSS--JS]
+- **[Project 4](https://papaya-sable-19da66.netlify.app):** [HTML--CSS--JS]
+- **[Project 5](https://nimble-swan-4914b5.netlify.app):** [HTML--CSS--JS]
 
 Explore more about these projects and others on my [GitHub Repositories](https://github.com/marcosAlvarezCalabria?tab=repositories).
 
