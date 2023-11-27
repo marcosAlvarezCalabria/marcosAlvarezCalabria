@@ -1,5 +1,5 @@
 
-Hi there 👋
+
 Hello everyone! 👋
 I'm Marcos Alvarez, a passionate web developer in constant evolution. My journey in the world of development is fueled by my tireless perseverance and a steadfast commitment to taking each project to its full potential.
 
