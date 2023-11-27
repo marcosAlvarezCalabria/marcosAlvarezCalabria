@@ -14,8 +14,8 @@ I approach every line of code with the conviction that every error is an opportu
 Featured Projects
 Here's a quick look at some of my recent projects:
 
-Project 1: [HTML--CSS--JS]
-Project 2: [HTML--CSS--JS]
+Project 1: [https://fancy-chimera-3fca55.netlify.app][HTML--CSS--JS]
+Project 2: [https://soft-brioche-dd0475.netlify.app][HTML--CSS--JS]
 Explore more about these projects and others on my GitHub Repositories.
 
 Under Construction: My Portfolio
