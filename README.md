@@ -37,7 +37,7 @@ I'm excited to share my progress as I build my portfolio to showcase my projects
 I would love to connect with you! I am open to collaborations, feedback, and new opportunities. You can find me at:
 
 - 📧 Email: [calalva82@gmail.com]
-- 💼 LinkedIn: [www.linkedin.com/in/marcos-alvarez-3518b5244]
+- 💼 LinkedIn: [www.linkedin.com/in/marcos-alvarez-calabria]
 
 Thank you for visiting my corner on GitHub. I am thrilled about the journey ahead and look forward to sharing this exciting path with fellow development enthusiasts.
 
