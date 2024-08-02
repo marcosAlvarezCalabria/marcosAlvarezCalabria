@@ -20,6 +20,8 @@ The true turning point came when I met someone who saw my potential and encourag
 
 Currently, I am focused on my studies to become a web developer, a field I am deeply passionate about. Today, I am proud of the progress I have made. Although I am aware that I still have a long way to go, I am determined to keep moving forward. My passion for technology and programming is my greatest motivation, and nothing will stop me on this exciting journey.
 
+**🔜 Excited to announce that I will soon be studying at 42 Málaga, taking my development skills to the next level!**
+
 ## Development Philosophy
 
 I approach every line of code with the conviction that every error is an opportunity for learning, and every success is a step towards excellence. I don't settle for the ordinary; I always seek ways to improve and surpass my own limits.
@@ -50,4 +52,5 @@ I would love to connect with you! I am open to collaborations, feedback, and new
 Thank you for visiting my corner on GitHub. I am thrilled about the journey ahead and look forward to sharing this exciting path with fellow development enthusiasts.
 
 Let's code together!
+
 
